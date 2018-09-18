@@ -6537,10 +6537,10 @@ body:first-of-type .portlet-content:hover .lfr-icon-actions .taglib-text {
   margin-left: -0.0625em;
   width: 13%;
   height: 38.625px;
-  background: url("/ourlounge-theme/css/../images/modulos/icons/ico_search.png") no-repeat center #333333; }
+  background: url("https://cdn.rawgit.com/OuterRaven/Web/e57cb01b/ico_search.png") no-repeat center #333333; }
 
 .aui .portletCustom .mod_header .mod_form .cont_form .form_description .cont_boton_search:hover {
-  background: url("/ourlounge-theme/css/../images/modulos/icons/ico_search.png") no-repeat center #893579; }
+  background: url("https://cdn.rawgit.com/OuterRaven/Web/e57cb01b/ico_search.png") no-repeat center #893579; }
 
 .aui .portletCustom .mod_header .mod_login {
   position: relative; }
