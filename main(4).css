@@ -14415,7 +14415,7 @@ em {
   margin-left: -0.0625em;
   width: 13%;
   height: 38.625px;
-  background: url("/ourlounge-theme/css/../images/modulos/icons/ico_search.png") no-repeat center #333333; }
+  background: url("https://www.ourlounge.ca/ourlounge-theme/images/modulos/icons/ico_search.png") no-repeat center #333333; }
 
 .aui .userList .search_box_button {
   position: absolute;
