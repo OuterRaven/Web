@@ -6468,7 +6468,7 @@ body:first-of-type .portlet-content:hover .lfr-icon-actions .taglib-text {
   font-size: 0.875em;
   font-family: Arial;
   color: #fff;
-  background: url("/ourlounge-theme/css/../images/modulos/icons/ico_info.png") no-repeat left center; }
+  background: url("https://www.ourlounge.ca/ourlounge-theme/images/modulos/icons/ico_info.png") no-repeat left center; }
 
 .aui .portletCustom .mod_cookies .mdck_information .description .link_description {
   color: #e4b73b;
@@ -8339,7 +8339,7 @@ aui .portletCustom .menu_navegacion .mod_nav .list_tab:hover .link_tab {
     margin-top: 0.625em;
     padding: 3.125em 1% 0 1%;
     width: 100%;
-    background: url("/ourlounge-theme/css/../images/modulos/icons/ico_info.png") no-repeat top center; }
+    background: url("https://www.ourlounge.ca/ourlounge-theme/images/modulos/icons/ico_info.png") no-repeat top center; }
 
   .aui .portletCustom .mod_cookies .mdck_information .link_information {
     display: block;
@@ -11273,7 +11273,7 @@ a.editImagePostButton:hover {
   position: absolute; }
 
 .aui .portletCustom .control-group.error .help-inline div {
-  background: url("/ourlounge-theme/css/../images/modulos/icons/ico_info.png") no-repeat left center;
+  background: url("https://www.ourlounge.ca/ourlounge-theme/images/modulos/icons/ico_info.png") no-repeat left center;
   font-family: arial;
   font-weight: 400;
   padding: .375em 2% .375em 25px; }
