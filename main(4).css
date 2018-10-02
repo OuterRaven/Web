@@ -18,12 +18,12 @@ body.html-editor {
   hyphens: auto;
   word-wrap: break-word; }
   .html-editor.portlet-message-boards blockquote {
-    background: #eef0f2 url(https://www.ourlounge.ca/ourlounge-theme/images//message_boards/quoteleft.png) no-repeat 5px 5px;
+    background: #eef0f2 url(https://www.ourlounge.ca/ourlounge-theme/images/message_boards/quoteleft.png) no-repeat 5px 5px;
     border: 1px solid #777;
     position: relative;
     padding: 5px 45px; }
     .html-editor.portlet-message-boards blockquote:after {
-      background: url(https://www.ourlounge.ca/ourlounge-theme/images//message_boards/quoteright.png) no-repeat 50%;
+      background: url(https://www.ourlounge.ca/ourlounge-theme/images/message_boards/quoteright.png) no-repeat 50%;
       bottom: 5px;
       content: '';
       display: block;
@@ -50,7 +50,7 @@ body.html-editor {
 
 /* ---------- Loading animation ---------- */
 .loading-animation {
-  background: url(https://www.ourlounge.ca/ourlounge-theme/images//progress_bar/loading_animation.gif) no-repeat top center;
+  background: url(https://www.ourlounge.ca/ourlounge-theme/images/progress_bar/loading_animation.gif) no-repeat top center;
   margin-top: 10px;
   padding-top: 40px;
   text-align: left; }
@@ -109,7 +109,7 @@ body.html-editor {
     .proxy.generic-portlet .portlet-title {
       padding: 10px; }
   .proxy.not-intersecting .forbidden-action {
-    background: url(https://www.ourlounge.ca/ourlounge-theme/images//application/forbidden_action.png) no-repeat;
+    background: url(https://www.ourlounge.ca/ourlounge-theme/images/application/forbidden_action.png) no-repeat;
     display: block;
     height: 32px;
     position: absolute;
@@ -223,7 +223,7 @@ body.html-editor {
   display: none; }
 
 .underlay-content {
-  background: #f4f3f3 url(https://www.ourlounge.ca/ourlounge-theme/images//common/message_panel_shadow.png) repeat-x 0 0;
+  background: #f4f3f3 url(https://www.ourlounge.ca/ourlounge-theme/images/common/message_panel_shadow.png) repeat-x 0 0;
   border: 0 solid #AEAFB1;
   border-width: 0 1px 1px; }
 
@@ -261,7 +261,7 @@ body.html-editor {
   padding: 5px; }
 
 .panel-hd {
-  background: #c0c2c5 url(https://www.ourlounge.ca/ourlounge-theme/images//application/panel_header_bg.png) repeat-x 0 0;
+  background: #c0c2c5 url(https://www.ourlounge.ca/ourlounge-theme/images/application/panel_header_bg.png) repeat-x 0 0;
   border: 1px solid;
   border-color: #C8C9CA #AEB2B8 #AEB2B8 #C8C9CA;
   padding-left: 10px;
@@ -315,7 +315,7 @@ body.html-editor {
       color: #999; }
 
 .menu-content {
-  background: #ccc9c9 url(https://www.ourlounge.ca/ourlounge-theme/images//application/menu_bg.png) repeat-x 0 0;
+  background: #ccc9c9 url(https://www.ourlounge.ca/ourlounge-theme/images/application/menu_bg.png) repeat-x 0 0;
   border: 1px solid;
   border-color: #AEAFB1 #777879 #777879 #AEAFB1;
   padding: 2px 0; }
@@ -358,7 +358,7 @@ body.html-editor {
   background: #CCC; }
 
 .loadingmask-message {
-  background: #d4d4d4 url(https://www.ourlounge.ca/ourlounge-theme/images//portlet/header_bg.png) repeat-x 0 0; }
+  background: #d4d4d4 url(https://www.ourlounge.ca/ourlounge-theme/images/portlet/header_bg.png) repeat-x 0 0; }
 
 /* ---------- Tree view ---------- */
 .tree-node .icon-check {
@@ -431,22 +431,22 @@ body.html-editor {
   text-indent: 0; }
 
 .paginator-current-page {
-  background: #0083bd url(https://www.ourlounge.ca/ourlounge-theme/images//application/paginator_link_current_bg.png) 0 0 repeat-x;
+  background: #0083bd url(https://www.ourlounge.ca/ourlounge-theme/images/application/paginator_link_current_bg.png) 0 0 repeat-x;
   border-color: #38B6EF #006D9E #006D9E #46B4E6;
   color: #FFF;
   text-shadow: -1px -1px #003C57; }
 
 .paginator-first-link {
-  background-image: url(https://www.ourlounge.ca/ourlounge-theme/images//arrows/paging_first.png); }
+  background-image: url(https://www.ourlounge.ca/ourlounge-theme/images/arrows/paging_first.png); }
 
 .paginator-prev-link {
-  background-image: url(https://www.ourlounge.ca/ourlounge-theme/images//arrows/paging_previous.png); }
+  background-image: url(https://www.ourlounge.ca/ourlounge-theme/css/../images/arrows/paging_previous.png); }
 
 .paginator-last-link {
-  background-image: url(https://www.ourlounge.ca/ourlounge-theme/images//arrows/paging_last.png); }
+  background-image: url(https://www.ourlounge.ca/ourlounge-theme/css/../images/arrows/paging_last.png); }
 
 .paginator-next-link {
-  background-image: url(https://www.ourlounge.ca/ourlounge-theme/images//arrows/paging_next.png); }
+  background-image: url(https://www.ourlounge.ca/ourlounge-theme/css/../images/arrows/paging_next.png); }
 
 .paginator-current-page-report, .paginator-total {
   color: #555;
@@ -464,7 +464,7 @@ body.html-editor {
   outline-offset: 2px;
   position: relative; }
   .lfr-editable:after {
-    background: #68bb30 url(https://www.ourlounge.ca/ourlounge-theme/images//common/edit_white.png) no-repeat 50%;
+    background: #68bb30 url(https://www.ourlounge.ca/ourlounge-theme/css/../images/common/edit_white.png) no-repeat 50%;
     content: '';
     display: block;
     height: 20px;
@@ -1000,7 +1000,7 @@ body.html-editor {
   text-decoration: none; }
 
 .nav-menu-style-arrows ul {
-  list-style-image: url(https://www.ourlounge.ca/ourlounge-theme/images//arrows/04_right.png); }
+  list-style-image: url(https://www.ourlounge.ca/ourlounge-theme/css/../images/arrows/04_right.png); }
 
 /* ---------- Page template selector ---------- */
 .form-options {
@@ -1016,7 +1016,7 @@ body.html-editor {
   float: left; }
 
 .form-trigger {
-  background: #c4c4c4 url(https://www.ourlounge.ca/ourlounge-theme/images//application/button_bg.png) repeat-x 0 0;
+  background: #c4c4c4 url(https://www.ourlounge.ca/ourlounge-theme/css/../images/application/button_bg.png) repeat-x 0 0;
   border-left: 1px solid #BBB;
   display: inline-block;
   float: left; }
@@ -1028,20 +1028,20 @@ body.html-editor {
     width: 16px; }
   .form-trigger:focus, .form-trigger:hover {
     background-color: #83B0CA;
-    background-image: url(https://www.ourlounge.ca/ourlounge-theme/images//application/button_bg_over.png); }
+    background-image: url(https://www.ourlounge.ca/ourlounge-theme/css/../images/application/button_bg_over.png); }
 
 .trigger-selected {
   background-color: #EBEBEB;
-  background-image: url(https://www.ourlounge.ca/ourlounge-theme/images//application/button_bg_selected.png); }
+  background-image: url(https://www.ourlounge.ca/ourlounge-theme/css/../images/application/button_bg_selected.png); }
   .trigger-selected:focus, .trigger-selected:hover {
     background-color: #B7DEF4;
-    background-image: url(https://www.ourlounge.ca/ourlounge-theme/images//application/button_bg_selected_over.png); }
+    background-image: url(https://www.ourlounge.ca/ourlounge-theme/css/../images/application/button_bg_selected_over.png); }
 
 .options-trigger img {
-  background-image: url(https://www.ourlounge.ca/ourlounge-theme/images//common/configuration.png); }
+  background-image: url(https://www.ourlounge.ca/ourlounge-theme/css/../images/common/configuration.png); }
 
 .save-trigger img {
-  background-image: url(https://www.ourlounge.ca/ourlounge-theme/images//common/check.png); }
+  background-image: url(https://www.ourlounge.ca/ourlounge-theme/css/../images/common/check.png); }
 
 /* ---------- Portlet wrapper and icons ---------- */
 .freeform .portlet {
@@ -1071,7 +1071,7 @@ body.portlet {
       float: left;
       padding: 1px; }
     .portlet-topper .portlet-topper-toolbar .portlet-icon-back {
-      background: url(https://www.ourlounge.ca/ourlounge-theme/images//arrows/12_left.png) no-repeat 0 50%;
+      background: url(https://www.ourlounge.ca/ourlounge-theme/css/../images/arrows/12_left.png) no-repeat 0 50%;
       color: #FFF;
       font-weight: bold;
       padding: 5px 5px 5px 18px; }
@@ -1150,13 +1150,13 @@ body.portlet {
     .portlet-content .lfr-icon-actions .lfr-icon-action a img {
       visibility: hidden; }
   .portlet-content .lfr-icon-actions .lfr-icon-action-add a {
-    background-image: url(https://www.ourlounge.ca/ourlounge-theme/images//common/add_white.png); }
+    background-image: url(https://www.ourlounge.ca/ourlounge-theme/css/../images/common/add_white.png); }
   .portlet-content .lfr-icon-actions .lfr-icon-action-edit a {
-    background-image: url(https://www.ourlounge.ca/ourlounge-theme/images//common/edit_white.png); }
+    background-image: url(https://www.ourlounge.ca/ourlounge-theme/css/../images/common/edit_white.png); }
   .portlet-content .lfr-icon-actions .lfr-icon-action-edit-template a {
-    background-image: url(https://www.ourlounge.ca/ourlounge-theme/images//common/edit_template_white.png); }
+    background-image: url(https://www.ourlounge.ca/ourlounge-theme/css/../images/common/edit_template_white.png); }
   .portlet-content .lfr-icon-actions .lfr-icon-action-configuration a {
-    background-image: url(https://www.ourlounge.ca/ourlounge-theme/images//common/configuration_white.png); }
+    background-image: url(https://www.ourlounge.ca/ourlounge-theme/css/../images/common/configuration_white.png); }
 .portlet-content .lfr-url-error {
   display: inline-block;
   white-space: normal; }
@@ -1198,9 +1198,9 @@ body.portlet {
     text-indent: 0;
     width: auto; }
   .portlet-borderless-bar .portlet-close a {
-    background-image: url(https://www.ourlounge.ca/ourlounge-theme/images//portlet/close_borderless.png); }
+    background-image: url(https://www.ourlounge.ca/ourlounge-theme/css/../images/portlet/close_borderless.png); }
   .portlet-borderless-bar .portlet-options li.lfr-trigger strong a {
-    background-image: url(https://www.ourlounge.ca/ourlounge-theme/images//portlet/options_borderless.png); }
+    background-image: url(https://www.ourlounge.ca/ourlounge-theme/css/../images/portlet/options_borderless.png); }
 
 .lfr-configurator-visibility .portlet-borderless-bar {
   filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=60);
@@ -1225,7 +1225,7 @@ body.portlet {
 .portlet-draggable .portlet-topper {
   cursor: move; }
 .portlet-draggable .portlet-title-default {
-  background: url(https://www.ourlounge.ca/ourlounge-theme/images//portlet/draggable_borderless.png) no-repeat 0 50%;
+  background: url(https://www.ourlounge.ca/ourlounge-theme/css/../images/portlet/draggable_borderless.png) no-repeat 0 50%;
   cursor: move;
   padding-left: 20px; }
 
@@ -1257,25 +1257,25 @@ body.portlet {
   padding: 3px 3px 3px 20px; }
 
 .lfr-status-alert-label {
-  background-image: url(https://www.ourlounge.ca/ourlounge-theme/images//messages/alert.png);
+  background-image: url(https://www.ourlounge.ca/ourlounge-theme/css/../images/messages/alert.png);
   color: #663; }
 
 .lfr-status-error-label {
-  background-image: url(https://www.ourlounge.ca/ourlounge-theme/images//messages/error.png);
+  background-image: url(https://www.ourlounge.ca/ourlounge-theme/css/../images/messages/error.png);
   color: #900; }
 
 .lfr-status-help-label, .lfr-status-info-label, .lfr-status-progress-label {
-  background-image: url(https://www.ourlounge.ca/ourlounge-theme/images//messages/info.png);
+  background-image: url(https://www.ourlounge.ca/ourlounge-theme/css/../images/messages/info.png);
   color: #34404F; }
 
 .lfr-status-help-label {
-  background-image: url(https://www.ourlounge.ca/ourlounge-theme/images//portlet/help.png); }
+  background-image: url(https://www.ourlounge.ca/ourlounge-theme/css/../images/portlet/help.png); }
 
 .lfr-status-progress-label {
-  background-image: url(https://www.ourlounge.ca/ourlounge-theme/images//aui/loading_indicator.gif); }
+  background-image: url(https://www.ourlounge.ca/ourlounge-theme/css/../images/aui/loading_indicator.gif); }
 
 .lfr-status-success-label {
-  background-image: url(https://www.ourlounge.ca/ourlounge-theme/images//messages/success.png);
+  background-image: url(https://www.ourlounge.ca/ourlounge-theme/css/../images/messages/success.png);
   color: #384F34; }
 
 /* ---------- Liferay messages ---------- */
@@ -1292,7 +1292,7 @@ body.portlet {
     top: 50%;
     z-index: 10; }
   .lfr-message .lfr-message-close {
-    background-image: url(https://www.ourlounge.ca/ourlounge-theme/images//portlet/close_borderless.png);
+    background-image: url(https://www.ourlounge.ca/ourlounge-theme/css/../images/portlet/close_borderless.png);
     background-position: 0 0;
     background-repeat: no-repeat; }
   .lfr-message .lfr-message-close-all {
@@ -1308,7 +1308,7 @@ body.portlet {
   .lfr-message .lfr-message-controls-hover .lfr-message-close-all {
     display: inline-block; }
   .lfr-message.pending {
-    background-image: url(https://www.ourlounge.ca/ourlounge-theme/images//common/time.png); }
+    background-image: url(https://www.ourlounge.ca/ourlounge-theme/css/../images/common/time.png); }
 
 .lfr-message-content.alert {
   margin-bottom: 0; }
@@ -1364,7 +1364,7 @@ body.portlet {
   background-color: #D3BDC0; }
 
 .alt.restricted td.first, .restricted td.first {
-  background-image: url(https://www.ourlounge.ca/ourlounge-theme/images//messages/error.png);
+  background-image: url(https://www.ourlounge.ca/ourlounge-theme/css/../images/messages/error.png);
   background-position: 5px 50%;
   background-repeat: no-repeat;
   padding-left: 28px; }
@@ -1376,15 +1376,15 @@ body.portlet {
   background-repeat: no-repeat;
   padding-left: 30px; }
 .table-data tr.lfr-role-guest .first {
-  background-image: url(https://www.ourlounge.ca/ourlounge-theme/images//common/guest_icon.png); }
+  background-image: url(https://www.ourlounge.ca/ourlounge-theme/css/../images/common/guest_icon.png); }
 .table-data tr.lfr-role-regular .first {
-  background-image: url(https://www.ourlounge.ca/ourlounge-theme/images//common/user_icon.png); }
+  background-image: url(https://www.ourlounge.ca/ourlounge-theme/css/../images/common/user_icon.png); }
 .table-data tr.lfr-role-site .first {
-  background-image: url(https://www.ourlounge.ca/ourlounge-theme/images//common/site_icon.png); }
+  background-image: url(https://www.ourlounge.ca/ourlounge-theme/css/../images/common/site_icon.png); }
 .table-data tr.lfr-role-organization .first {
-  background-image: url(https://www.ourlounge.ca/ourlounge-theme/images//common/organization_icon.png); }
+  background-image: url(https://www.ourlounge.ca/ourlounge-theme/css/../images/common/organization_icon.png); }
 .table-data tr.lfr-role-team .first {
-  background-image: url(https://www.ourlounge.ca/ourlounge-theme/images//common/team_icon.png); }
+  background-image: url(https://www.ourlounge.ca/ourlounge-theme/css/../images/common/team_icon.png); }
 
 /* ---------- Miscellaneous component styles ---------- */
 /* ---------- Add content dialog ---------- */
@@ -2062,7 +2062,7 @@ body:first-of-type .portlet-content:hover .lfr-icon-actions .taglib-text {
     position: relative; }
 
   #mm-blocker {
-    background: url("/ourlounge-theme/css/../img/general/iconos/ico_mobile_menu.png") no-repeat 11px 17px rgba(0, 0, 0, 0.5);
+    background: url("https://www.ourlounge.ca/ourlounge-theme/css/../img/general/iconos/ico_mobile_menu.png") no-repeat 11px 17px rgba(0, 0, 0, 0.5);
     cursor: pointer;
     box-shadow: -6px -1px 11px 0px rgba(0, 0, 0, 0.75);
     display: none;
@@ -2256,7 +2256,7 @@ body:first-of-type .portlet-content:hover .lfr-icon-actions .taglib-text {
 
   .mm-menu.mm-vertical .mm-list li.mm-opened > a.mm-subopen,
   .mm-menu.mm-vertical .mm-list li.mm-opened > ul {
-    background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_flecha_white_top.png") no-repeat center; }
+    background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_flecha_white_top.png") no-repeat center; }
 
   html.mm-opening .mm-page,
   html.mm-opening #mm-blocker,
@@ -3185,7 +3185,7 @@ body:first-of-type .portlet-content:hover .lfr-icon-actions .taglib-text {
     position: relative; }
 
   #mm-blocker {
-    background: url("/ourlounge-theme/css/../img/general/iconos/ico_mobile_menu.png") no-repeat 11px 17px rgba(0, 0, 0, 0.5);
+    background: url("https://www.ourlounge.ca/ourlounge-theme/css/../img/general/iconos/ico_mobile_menu.png") no-repeat 11px 17px rgba(0, 0, 0, 0.5);
     cursor: pointer;
     box-shadow: -6px -1px 11px 0px rgba(0, 0, 0, 0.75);
     display: none;
@@ -3379,7 +3379,7 @@ body:first-of-type .portlet-content:hover .lfr-icon-actions .taglib-text {
 
   .mm-menu.mm-vertical .mm-list li.mm-opened > a.mm-subopen,
   .mm-menu.mm-vertical .mm-list li.mm-opened > ul {
-    background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_flecha_white_top.png") no-repeat center; }
+    background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_flecha_white_top.png") no-repeat center; }
 
   html.mm-opening .mm-page,
   html.mm-opening #mm-blocker,
@@ -5578,13 +5578,13 @@ body:first-of-type .portlet-content:hover .lfr-icon-actions .taglib-text {
   width: 20px;
   height: 15px;
   box-shadow: 0px 0px 1px 0px #888;
-  background-image: url("https://www.ourlounge.ca/ourlounge-theme/images//flags.png");
+  background-image: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/flags.png");
   background-color: #DBDBDB;
   background-position: 100% 100%; }
 
 @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2 / 1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
   .iti-flag {
-    background-image: url("https://www.ourlounge.ca/ourlounge-theme/images//flags@2x.png"); } }
+    background-image: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/flags@2x.png"); } }
 .iti-flag.np {
   background-color: transparent; }
 
@@ -5625,7 +5625,7 @@ body:first-of-type .portlet-content:hover .lfr-icon-actions .taglib-text {
   position: absolute;
   top: 50%;
   left: 8px;
-  background: transparent url(/ourlounge-theme/css/../../images/modulos/carousel/nav_thumbs.png) no-repeat top left;
+  background: transparent url(https://www.ourlounge.ca/ourlounge-theme/css/../../images/modulos/carousel/nav_thumbs.png) no-repeat top left;
   width: 14px;
   height: 26px;
   margin-top: -13px;
@@ -6609,7 +6609,7 @@ body:first-of-type .portlet-content:hover .lfr-icon-actions .taglib-text {
   left: 83%;
   width: 22px;
   height: 10px;
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_bocadillo.png") no-repeat top right transparent;
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_bocadillo.png") no-repeat top right transparent;
   z-index: 5; }
 
 .aui .portletCustom .mod_header .mod_login .md_cont_img .menu_login .list_login {
@@ -6706,13 +6706,13 @@ body:first-of-type .portlet-content:hover .lfr-icon-actions .taglib-text {
   margin-top: -2.5em; }
 
 .aui .portletCustom .mod_carousel .rg-image-wrapper .rg-image-nav .rg-image-nav-prev:hover {
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/carousel/ico_left_pink.png") no-repeat right center; }
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/carousel/ico_left_pink.png") no-repeat right center; }
 
 .aui .portletCustom .mod_carousel .rg-image-wrapper .rg-image-nav .rg-image-nav-next {
   margin-top: -2.5em; }
 
 .aui .portletCustom .mod_carousel .rg-image-wrapper .rg-image-nav .rg-image-nav-next:hover {
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/carousel/ico_right_pink.png") no-repeat right center; }
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/carousel/ico_right_pink.png") no-repeat right center; }
 
 .aui .portletCustom .mod_carousel .mod_imgCarousel {
   position: relative;
@@ -6850,7 +6850,7 @@ body:first-of-type .portlet-content:hover .lfr-icon-actions .taglib-text {
   bottom: 0;
   width: 20px;
   height: 20px;
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_corner.png") no-repeat; }
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_corner.png") no-repeat; }
 
 /*Nav*/
 .aui .portletCustom .mod_discover {
@@ -6883,7 +6883,7 @@ body:first-of-type .portlet-content:hover .lfr-icon-actions .taglib-text {
   background: #893579; }
 
 .aui .portletCustom .mod_discover .md_description_discover .mod_listado_discover .list_discover .mod_row:hover .mod_text:after {
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/punta_negra.png") no-repeat;
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/punta_negra.png") no-repeat;
   z-index: 1; }
 
 .aui .portletCustom .mod_discover .md_description_discover .mod_listado_discover .list_discover .mod_row_second {
@@ -6896,7 +6896,7 @@ body:first-of-type .portlet-content:hover .lfr-icon-actions .taglib-text {
   background: #893579; }
 
 .aui .portletCustom .mod_discover .md_description_discover .mod_listado_discover .list_discover .mod_row_second:hover .sub_mod:after {
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/punta_lila_left.png") no-repeat;
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/punta_lila_left.png") no-repeat;
   z-index: 1; }
 
 .aui .portletCustom .mod_discover .md_description_discover .mod_listado_discover .list_discover .mod_row_second .showOnlyWebTablet {
@@ -6930,7 +6930,7 @@ body:first-of-type .portlet-content:hover .lfr-icon-actions .taglib-text {
   background: #893579; }
 
 .aui .portletCustom .mod_discover .md_description_discover .mod_listado_discover .list_discover .mod_text:hover:after {
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_pico_right_hover.png") no-repeat;
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_pico_right_hover.png") no-repeat;
   z-index: 1; }
 
 .aui .portletCustom .mod_discover .md_description_discover .mod_listado_discover .list_discover .mod_text:after {
@@ -6940,14 +6940,14 @@ body:first-of-type .portlet-content:hover .lfr-icon-actions .taglib-text {
   top: 2.5em;
   width: 13px;
   height: 29px;
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_pico_right.png") no-repeat; }
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_pico_right.png") no-repeat; }
 
 .aui .portletCustom .mod_discover .md_description_discover .mod_listado_discover .list_discover .mod_text.sub_mod {
   width: 50%;
   left: -1px; }
 
 .aui .portletCustom .mod_discover .md_description_discover .mod_listado_discover .list_discover .mod_text.sub_mod:hover:after {
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/punta_lila_left.png") no-repeat;
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/punta_lila_left.png") no-repeat;
   z-index: 1; }
 
 .aui .portletCustom .mod_discover .md_description_discover .mod_listado_discover .list_discover .mod_text.sub_mod:after {
@@ -6957,7 +6957,7 @@ body:first-of-type .portlet-content:hover .lfr-icon-actions .taglib-text {
   top: 40%;
   width: 13px;
   height: 29px;
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_pico_left.png") no-repeat;
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_pico_left.png") no-repeat;
   z-index: 1; }
 
 .aui .portletCustom .mod_discover .md_description_discover .mod_listado_discover .list_discover .cont_img_discover {
@@ -7138,7 +7138,7 @@ aui .portletCustom .menu_navegacion .mod_nav .list_tab:hover .link_tab {
   top: 8.125em;
   width: 13px;
   height: 29px;
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_flecha_right.png") no-repeat;
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_flecha_right.png") no-repeat;
   z-index: 100; }
 
 .aui .menu_navegacion .cont_img_tab {
@@ -7292,7 +7292,7 @@ aui .portletCustom .menu_navegacion .mod_nav .list_tab:hover .link_tab {
   bottom: -12px;
   width: 29px;
   height: 13px;
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_pico_bottom.png") no-repeat; }
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_pico_bottom.png") no-repeat; }
 
 .aui .portletCustom .mod_news_img .md_news .cont_title {
   position: absolute;
@@ -7360,7 +7360,7 @@ aui .portletCustom .menu_navegacion .mod_nav .list_tab:hover .link_tab {
   bottom: -12px;
   width: 29px;
   height: 13px;
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_pico_bottom.png") no-repeat; }
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_pico_bottom.png") no-repeat; }
 
 .aui .portletCustom .mod_news .md_news .md_art_new .mod_list {
   padding-left: 13%;
@@ -7420,13 +7420,13 @@ aui .portletCustom .menu_navegacion .mod_nav .list_tab:hover .link_tab {
   bottom: -12px;
   width: 29px;
   height: 13px;
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_pico_bottom.png") no-repeat; }
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_pico_bottom.png") no-repeat; }
 
 .aui .portletCustom .md_question .md_art_question .text_new:hover {
   background: #893579; }
 
 .aui .portletCustom .md_question .md_art_question .text_new:hover:after {
-  background-image: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/punta_lila_down.png"); }
+  background-image: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/punta_lila_down.png"); }
 
 .aui .portletCustom .md_question .md_art_question .mod_list .list {
   position: relative;
@@ -7498,11 +7498,11 @@ aui .portletCustom .menu_navegacion .mod_nav .list_tab:hover .link_tab {
   bottom: -12px;
   width: 29px;
   height: 13px;
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_pico_bottom.png") no-repeat;
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_pico_bottom.png") no-repeat;
   z-index: 999; }
 
 .aui .portletCustom .md_question .md_art_question.mod_informacion .text_new:hover:after {
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_pico_bottom_hover.png") no-repeat; }
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_pico_bottom_hover.png") no-repeat; }
 
 .aui .portletCustom .md_question_img {
   position: relative;
@@ -7552,7 +7552,7 @@ aui .portletCustom .menu_navegacion .mod_nav .list_tab:hover .link_tab {
   top: -12px;
   width: 29px;
   height: 13px;
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_pico_top.png") no-repeat; }
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_pico_top.png") no-repeat; }
 
 .aui .portletCustom .md_question_img:hover .cont_img {
   z-index: 2;
@@ -7576,7 +7576,7 @@ aui .portletCustom .menu_navegacion .mod_nav .list_tab:hover .link_tab {
   background: #893579; }
 
 .aui .portletCustom .md_question_img:hover .title_img:after {
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/punta_lila.png") no-repeat; }
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/punta_lila.png") no-repeat; }
 
 .aui .portletCustom .mod_pestana_rol {
   padding-left: 0;
@@ -7686,10 +7686,10 @@ aui .portletCustom .menu_navegacion .mod_nav .list_tab:hover .link_tab {
   vertical-align: middle;
   width: 20px;
   height: 16px;
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_arrow_left.png") no-repeat right center; }
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_arrow_left.png") no-repeat right center; }
 
 .aui .portletCustom .mod_pestana_rol .tabs.mdptrol_cont .cont_description_tab .mod_description_pestana .lista_items .item .mod_description_list .description_item .link_description:hover {
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_arrow_left_hover.png") no-repeat right center; }
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_arrow_left_hover.png") no-repeat right center; }
 
 .aui .portletCustom .mod_pestana_rol .tabs.mdptrol_cont .cont_description_tab .mod_description_pestana .lista_items_dark {
   float: left;
@@ -7749,7 +7749,7 @@ aui .portletCustom .menu_navegacion .mod_nav .list_tab:hover .link_tab {
   background: #893579; }
 
 .aui .menuTablet .mod_lista_nav .lista_nav .mm-subopen {
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_flecha_white_bottom.png") no-repeat center;
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_flecha_white_bottom.png") no-repeat center;
   margin-top: 2%; }
 
 .aui .menuTablet .mod_lista_nav .lista_nav.mm-opened:hover {
@@ -7768,14 +7768,14 @@ aui .portletCustom .menu_navegacion .mod_nav .list_tab:hover .link_tab {
   left: 0;
   width: 50px;
   right: 8%;
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_flecha_white_left.png") no-repeat 50% center; }
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_flecha_white_left.png") no-repeat 50% center; }
 
 .aui .menuTablet .mod_lista_nav .lista_nav.mm-opened .sub_mod_lista .sub_lista.mm-opened .sub_item {
   text-align: center; }
 
 .aui .menuTablet .mod_lista_nav .lista_nav.mm-opened .sub_mod_lista .sub_lista .mm-subopen {
   top: 1.0625em;
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_flecha.png") no-repeat center; }
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_flecha.png") no-repeat center; }
 
 .aui .menuTablet .mod_lista_nav .lista_nav.mm-opened .sub_mod_lista .sub_lista .sub_mod_lista_description {
   padding: 0;
@@ -7800,7 +7800,7 @@ aui .portletCustom .menu_navegacion .mod_nav .list_tab:hover .link_tab {
   font-weight: 900; }
 
 .aui .menuTablet .mod_lista_nav .lista_nav.mm-opened .mm-subopen {
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_flecha.png") no-repeat center; }
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_flecha.png") no-repeat center; }
 
 .aui .menuTablet .mod_lista_nav .lista_nav .sub_mod_lista {
   padding-left: 0;
@@ -7818,7 +7818,7 @@ aui .portletCustom .menu_navegacion .mod_nav .list_tab:hover .link_tab {
   color: #FFFFFF; }
 
 .aui .menuTablet .mod_lista_nav .lista_nav .sub_mod_lista .sub_lista:hover .mm-subopen {
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_flecha_white.png") no-repeat center; }
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_flecha_white.png") no-repeat center; }
 
 .aui .menuTablet .mod_lista_nav .lista_nav .sub_mod_lista .sub_lista:hover .sub_item {
   color: #ffffff; }
@@ -8203,7 +8203,7 @@ aui .portletCustom .menu_navegacion .mod_nav .list_tab:hover .link_tab {
   .aui .portletCustom .mod_discover .md_description_discover .mod_listado_discover .list_discover .mod_row_second .showOnlyMobile {
     display: none; }
 
-  /*   .aui .portletCustom .mod_discover .md_description_discover .mod_listado_discover .list_discover .mod_row_second:hover .sub_mod:after { background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_pico_bottom_hover.png") no-repeat; } */
+  /*   .aui .portletCustom .mod_discover .md_description_discover .mod_listado_discover .list_discover .mod_row_second:hover .sub_mod:after { background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_pico_bottom_hover.png") no-repeat; } */
   .aui .portletCustom .mod_empleado {
     height: initial; }
 
@@ -8561,7 +8561,7 @@ aui .portletCustom .menu_navegacion .mod_nav .list_tab:hover .link_tab {
     bottom: 0.875em; }
 
   .aui .portletCustom .md_question_img:hover:after {
-    background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_flecha_top_pink.png") no-repeat; }
+    background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_flecha_top_pink.png") no-repeat; }
 
   .aui .portletCustom .md_question_img:hover .cont_img {
     z-index: 2;
@@ -8665,7 +8665,7 @@ aui .portletCustom .menu_navegacion .mod_nav .list_tab:hover .link_tab {
     text-decoration: none; }
 
   .aui .portletCustom .mod_discover .md_description_discover .mod_listado_discover .list_discover .mod_row:hover .mod_text:after {
-    background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_pico_bottom_hover.png") no-repeat;
+    background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_pico_bottom_hover.png") no-repeat;
     z-index: 1; }
 
   .aui .portletCustom .mod_discover .md_description_discover .mod_listado_discover .list_discover .mod_text {
@@ -8683,13 +8683,13 @@ aui .portletCustom .menu_navegacion .mod_nav .list_tab:hover .link_tab {
     height: 13px;
     top: initial;
     bottom: -12px;
-    background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_pico_bottom.png") no-repeat; }
+    background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_pico_bottom.png") no-repeat; }
 
   .aui .portletCustom .mod_discover .md_description_discover .mod_listado_discover .list_discover .mod_text.sub_mod:hover:after {
-    background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_pico_bottom_hover.png") no-repeat; }
+    background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_pico_bottom_hover.png") no-repeat; }
 
   .aui .portletCustom .mod_discover .md_description_discover .mod_listado_discover .list_discover .mod_text:hover:after {
-    background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_pico_bottom_hover.png") no-repeat; }
+    background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_pico_bottom_hover.png") no-repeat; }
 
   .aui .portletCustom .mod_discover .md_description_discover .mod_listado_discover .list_discover .mod_text:after {
     left: 3%;
@@ -8697,7 +8697,7 @@ aui .portletCustom .menu_navegacion .mod_nav .list_tab:hover .link_tab {
     top: initial;
     width: 29px;
     height: 13px;
-    background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_pico_bottom.png") no-repeat; }
+    background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_pico_bottom.png") no-repeat; }
 
   .aui .portletCustom .mod_discover .md_description_discover .mod_listado_discover .list_discover .cont_img_discover {
     display: block;
@@ -8743,7 +8743,7 @@ aui .portletCustom .menu_navegacion .mod_nav .list_tab:hover .link_tab {
     display: block; }
 
   .aui .portletCustom .mod_discover .md_description_discover .mod_listado_discover .list_discover .mod_row_second:hover .sub_mod:after {
-    background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_pico_bottom_hover.png") no-repeat; }
+    background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_pico_bottom_hover.png") no-repeat; }
 
   .aui .portletCustom .mod_empleado {
     height: initial; }
@@ -8849,7 +8849,7 @@ aui .portletCustom .menu_navegacion .mod_nav .list_tab:hover .link_tab {
 /* carousel */
 .rg-image-wrapper {
   position: relative;
-  background: transparent url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/carousel/black.png") repeat top left;
+  background: transparent url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/carousel/black.png") repeat top left;
   -moz-border-radius: 10px;
   -webkit-border-radius: 10px;
   border-radius: 10px;
@@ -8869,7 +8869,7 @@ aui .portletCustom .menu_navegacion .mod_nav .list_tab:hover .link_tab {
   position: absolute;
   top: 50%;
   left: 0px;
-  background: black url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/carousel/ico_left.png") no-repeat right center;
+  background: black url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/carousel/ico_left.png") no-repeat right center;
   width: 39px;
   height: 78px;
   margin-top: -37px;
@@ -8881,7 +8881,7 @@ aui .portletCustom .menu_navegacion .mod_nav .list_tab:hover .link_tab {
 .rg-image-nav a.rg-image-nav-next {
   right: 0px;
   left: auto;
-  background: black url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/carousel/ico_right.png") no-repeat right center; }
+  background: black url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/carousel/ico_right.png") no-repeat right center; }
 
 .rg-caption {
   text-align: center;
@@ -8905,7 +8905,7 @@ aui .portletCustom .menu_navegacion .mod_nav .list_tab:hover .link_tab {
   width: 16px;
   height: 16px;
   margin-right: 3px;
-  background: #464646 url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/carousel/views.png") no-repeat top left;
+  background: #464646 url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/carousel/views.png") no-repeat top left;
   border: 3px solid #464646; }
 
 .rg-view a.rg-view-full {
@@ -8924,7 +8924,7 @@ aui .portletCustom .menu_navegacion .mod_nav .list_tab:hover .link_tab {
   position: absolute;
   top: 50%;
   left: 50%;
-  background: black url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/carousel/ajax-loader.gif") no-repeat center center;
+  background: black url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/carousel/ajax-loader.gif") no-repeat center center;
   margin: -23px 0px 0px -23px;
   z-index: 100;
   -moz-border-radius: 10px;
@@ -10010,7 +10010,7 @@ textarea#_restaurantgroupportlet_WAR_restaurantgroupportlet_description {
   visibility: hidden; }
 
 a.editImagePostButton {
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/edit.png") no-repeat;
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/edit.png") no-repeat;
   background-position: -24px 0; }
 
 .editButtonDetail a {
@@ -10123,7 +10123,7 @@ a.editImagePostButton:hover {
   width: 100%; }
 
 .aui .icon-comment {
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/sprite-comment.png") no-repeat;
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/sprite-comment.png") no-repeat;
   background-position: -24px 0;
   filter: alpha(opacity=100);
   float: left;
@@ -10135,7 +10135,7 @@ a.editImagePostButton:hover {
   background-position: 0 -21px; }
 
 .aui .icon-thumbs-up {
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/sprite-like-small.png") no-repeat;
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/sprite-like-small.png") no-repeat;
   background-position: -24px 0;
   filter: alpha(opacity=100);
   float: left;
@@ -10149,7 +10149,7 @@ a.editImagePostButton:hover {
   display: none; }
 
 .aui .icon-thumbs-up:hover {
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/sprite-like-small.png") no-repeat;
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/sprite-like-small.png") no-repeat;
   background-position: 0 -21px;
   height: 14px;
   width: 20px; }
@@ -10213,7 +10213,7 @@ a.editImagePostButton:hover {
 .aui .portletCustom .uploadPhoto .uploadForm .share-your-moment-min:before,
 .aui .portletCustom .asset-full-content .asset-content .journal-content-article .portletCustom .userDetail .userDetails:before,
 .aui .portlet-borderless-container .portlet-body .uploadContent .uploadFormContent .say-something-min:before {
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/puntaBlack.png") no-repeat;
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/puntaBlack.png") no-repeat;
   content: "";
   height: 15px;
   left: -7px;
@@ -10250,7 +10250,7 @@ a.editImagePostButton:hover {
   font-size: .875em; }
 
 .aui .igParentDiv .igChildDiv .imageItem .igTags p .icon-tag {
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_target.png");
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_target.png");
   display: inline-block;
   height: 17px;
   width: 19px; }
@@ -10283,7 +10283,7 @@ a.editImagePostButton:hover {
   margin-right: 5px; }
 
 .aui .likesAndComments .taglib-flags .taglib-icon {
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_flag.png") no-repeat;
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_flag.png") no-repeat;
   display: block;
   height: 15px;
   width: 12px; }
@@ -10341,7 +10341,7 @@ a.editImagePostButton:hover {
 
 .aui .portlet-borderless-container .portlet-body .managers .cont_btns .leftArrow .pag-previous,
 .aui .portlet-borderless-container .portlet-body .memebrs .cont_btns .leftArrow .pag-previous {
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_previus.png") no-repeat center;
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_previus.png") no-repeat center;
   color: transparent;
   display: block;
   height: 40px;
@@ -10357,7 +10357,7 @@ a.editImagePostButton:hover {
 
 .aui .portlet-borderless-container .portlet-body .managers .cont_btns .rightArrow .pag-next,
 .aui .portlet-borderless-container .portlet-body .memebrs .cont_btns .rightArrow .pag-next {
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_next.png") no-repeat center;
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_next.png") no-repeat center;
   color: transparent;
   display: block;
   height: 40px;
@@ -10416,7 +10416,7 @@ a.editImagePostButton:hover {
 
 .aui .portlet-borderless-container .portlet-body .managers .managers-photos .mod-people-name:before,
 .aui .portlet-borderless-container .portlet-body .memebrs .managers-photos .mod-people-name:before {
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_pico_pequeno_top.png") no-repeat;
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_pico_pequeno_top.png") no-repeat;
   content: "";
   height: 6px;
   left: 41%;
@@ -10447,7 +10447,7 @@ a.editImagePostButton:hover {
 .aui .portlet-borderless-container .portlet-body .managers .user-members-header .points .point .link_point,
 .aui .portlet-borderless-container .portlet-body .memebrs .user-managers-header .points .point .link_point,
 .aui .portlet-borderless-container .portlet-body .memebrs .user-members-header .points .point .link_point {
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_carrusel.png") no-repeat center;
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_carrusel.png") no-repeat center;
   color: transparent;
   display: block;
   height: 9px;
@@ -10571,7 +10571,7 @@ a.editImagePostButton:hover {
 .aui .portlet-borderless-container .portlet-body .managers .user-members-header .points .point .currentPoint,
 .aui .portlet-borderless-container .portlet-body .memebrs .user-managers-header .points .point .currentPoint,
 .aui .portlet-borderless-container .portlet-body .memebrs .user-members-header .points .point .currentPoint {
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_carrusel_selected.png") no-repeat center;
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_carrusel_selected.png") no-repeat center;
   color: transparent;
   display: block;
   height: 10px;
@@ -10835,7 +10835,7 @@ a.editImagePostButton:hover {
 
 .aui .portlet-login .portlet-body .registration .stepsList .item.current.first:after,
 .aui .portlet-login .portlet-body .registration .stepsList .item.current.inner:after {
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_flecha_right_pink.png") no-repeat right center;
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_flecha_right_pink.png") no-repeat right center;
   content: "";
   height: 58px;
   left: 98%;
@@ -10845,7 +10845,7 @@ a.editImagePostButton:hover {
 
 .aui .portlet-login .portlet-body .registration .stepsList .item.current.inner:before,
 .aui .portlet-login .portlet-body .registration .stepsList .item.current.last:before {
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_flecha_right.png") no-repeat right center;
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_flecha_right.png") no-repeat right center;
   content: "";
   height: 58px;
   left: 0;
@@ -10984,7 +10984,7 @@ a.editImagePostButton:hover {
   width: 100%; }
 
 .aui .portletCustom .asset-full-content .asset-content .journal-content-article .portletCustom .userDetail .userDetails .restaurant {
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_ubi_wht.png") no-repeat left center;
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_ubi_wht.png") no-repeat left center;
   display: inline-block;
   margin-left: 1%;
   margin-top: .1875em;
@@ -11050,7 +11050,7 @@ a.editImagePostButton:hover {
   width: 50%; }
 
 .aui .portletCustom .asset-full-content .flags .taglib-icon {
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_flag.png") no-repeat;
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_flag.png") no-repeat;
   float: right;
   height: 15px;
   margin-top: 5px;
@@ -11080,13 +11080,13 @@ a.editImagePostButton:hover {
   padding-top: .125em; }
 
 .aui .portletCustom .asset-full-content .likes .asset-ratings .thumbs .thumbrating .thumbrating-content .icon-thumbs-up {
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/sprite-like-big.png") no-repeat;
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/sprite-like-big.png") no-repeat;
   background-position: -30px 0;
   height: 20px;
   margin-right: 5px; }
 
 .aui .portletCustom .asset-full-content .likes .asset-ratings .thumbs .thumbrating .thumbrating-content .icon-thumbs-up:hover {
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/sprite-like-big.png") no-repeat;
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/sprite-like-big.png") no-repeat;
   background-position: 0 -28px; }
 
 .aui .portletCustom .asset-full-content .likes .asset-ratings:hover .rating-label-fixed {
@@ -11113,7 +11113,7 @@ a.editImagePostButton:hover {
   font-weight: 700; }
 
 .aui .portletCustom .breadcrumb-horizontal li .divider {
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_flecha.png") no-repeat center;
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_flecha.png") no-repeat center;
   color: transparent;
   display: block;
   float: right;
@@ -11169,7 +11169,7 @@ a.editImagePostButton:hover {
   background-position: 0 -30px; }
 
 .aui .portletCustom .campo_check:before, .aui .portletCustom .form-inline.input-checkbox-wrapper label:before {
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_check_custom.png") no-repeat -30px 0;
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_check_custom.png") no-repeat -30px 0;
   content: "";
   height: 20px;
   left: 0;
@@ -11439,20 +11439,20 @@ a.editImagePostButton:hover {
   width: 35px; }
 
 .aui .portletCustom .lfr-pagination .lfr-pagination-buttons .item.next {
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_next.png") no-repeat; }
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_next.png") no-repeat; }
 
 .aui .portletCustom .lfr-pagination .lfr-pagination-buttons .item.next:hover {
-  background-image: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/picos/ico_next.png"); }
+  background-image: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/picos/ico_next.png"); }
 
 .aui .portletCustom .lfr-pagination .lfr-pagination-buttons .item.previous {
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_previus.png") no-repeat; }
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_previus.png") no-repeat; }
 
 .aui .portletCustom .lfr-pagination .lfr-pagination-buttons .item.previous .link_item,
 .aui .portletCustom .lfr-pagination .lfr-pagination-buttons .item.next .link_item {
   color: transparent; }
 
 .aui .portletCustom .lfr-pagination .lfr-pagination-buttons .item.previous:hover {
-  background-image: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/picos/ico_previus.png"); }
+  background-image: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/picos/ico_previus.png"); }
 
 .aui .portletCustom .lfr-pagination .lfr-pagination-buttons .item.selected.disabled .description {
   background: #893579;
@@ -11461,7 +11461,7 @@ a.editImagePostButton:hover {
   width: 41px; }
 
 .aui .portletCustom .location .icon-map-marker {
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_ubi.png") no-repeat left top;
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_ubi.png") no-repeat left top;
   height: 12px;
   width: 15px; }
 
@@ -11684,7 +11684,7 @@ a.editImagePostButton:hover {
   position: relative; }
 
 .aui .portletCustom .restaurantWallHeader .addressBox {
-  background-image: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/loc.gif");
+  background-image: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/loc.gif");
   background-repeat: no-repeat;
   box-shadow: 0 0 15px #888;
   padding: 5px 5px 5px 50px; }
@@ -11839,7 +11839,7 @@ a.editImagePostButton:hover {
   margin: 0; }
 
 .aui .portletCustom .topSpottedContainer .topSpottedEntry .asset-ratings {
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_back_like.png") no-repeat;
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_back_like.png") no-repeat;
   border-bottom-right-radius: 80px;
   height: 3.75em;
   width: 3.75em; }
@@ -11853,7 +11853,7 @@ a.editImagePostButton:hover {
   width: 70%; }
 
 .aui .portletCustom .topSpottedContainer .topSpottedEntry .asset-ratings .taglib-ratings .thumbrating .rating-content .rating-thumb-up {
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_like.gif") no-repeat;
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_like.gif") no-repeat;
   display: block;
   filter: alpha(opacity=100);
   height: 18px;
@@ -11874,7 +11874,7 @@ a.editImagePostButton:hover {
   top: 0; }
 
 .aui .portletCustom .topSpottedContainer .topSpottedEntry .asset-ratings:hover {
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_back_like_hover.png") no-repeat; }
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_back_like_hover.png") no-repeat; }
 
 .aui .portletCustom .topSpottedContainer .topSpottedEntry .contDescription {
   box-shadow: 0 -13px 34px -19px #342D29;
@@ -11931,7 +11931,7 @@ a.editImagePostButton:hover {
   width: 100%; }
 
 .aui .portletCustom .topSpottedContainer .topSpottedEntry .contDescription:before {
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/punta_blanca.png") no-repeat;
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/punta_blanca.png") no-repeat;
   content: "";
   height: 14px;
   left: 6%;
@@ -12016,7 +12016,7 @@ a.editImagePostButton:hover {
   position: relative; }
 
 .aui .portletCustom .uploadPhoto .uploadForm .share-your-moment-min active:before {
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/punta_selected.png") no-repeat;
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/punta_selected.png") no-repeat;
   content: "";
   height: 15px;
   left: -7px;
@@ -12046,7 +12046,7 @@ a.editImagePostButton:hover {
 
 .aui .portletCustom .uploadPhoto .uploadForm .share-your-moment-min.active:before,
 .aui .portlet-borderless-container .portlet-body .uploadContent .uploadFormContent .say-something-min.active:before {
-  background-image: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/punta_selected.png"); }
+  background-image: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/punta_selected.png"); }
 
 .aui .portletCustom .userImage > .letterCircle, .aui .portletCustom .userImage > .letterCircle {
   padding: 20px 0; }
@@ -12153,7 +12153,7 @@ a.editImagePostButton:hover {
   line-height: initial; }
 
 .aui .portletCustom icheckbox {
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_check.png") no-repeat;
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_check.png") no-repeat;
   float: left;
   height: 20px;
   width: 29px; }
@@ -12317,7 +12317,7 @@ a.editImagePostButton:hover {
   position: relative; }
 
 .aui .restPage #column-4 .postItem .itemContent .documents .rowFile .item .itemTitle .link {
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_adobe.png") no-repeat left center;
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_adobe.png") no-repeat left center;
   border: 10px solid #893579;
   border-bottom: 5px solid #893579;
   border-top: 5px solid #893579;
@@ -12330,7 +12330,7 @@ a.editImagePostButton:hover {
   width: 100%; }
 
 .aui .restPage #column-4 .postItem .itemContent .documents .rowFile .item .itemTitle:before {
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_pico_text_op.png") no-repeat;
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_pico_text_op.png") no-repeat;
   bottom: 0;
   content: "";
   height: 20px;
@@ -12397,7 +12397,7 @@ a.editImagePostButton:hover {
   text-align: center; }
 
 .aui .restPage .categoryList li:after {
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_flecha_right.png") no-repeat right center;
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_flecha_right.png") no-repeat right center;
   content: "";
   height: 37px;
   left: 98%;
@@ -12410,7 +12410,7 @@ a.editImagePostButton:hover {
   padding: .625em 3.3%; }
 
 .aui .restPage .categoryList li:hover:after, .aui .restPage .categoryList li.selected:after {
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_flecha_right_pink.png") no-repeat right center; }
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_flecha_right_pink.png") no-repeat right center; }
 
 .aui .restPage .portlet-column-first .portlet-column-content-first .portlet-borderless .portlet-borderless-container {
   margin-top: .625em; }
@@ -12601,7 +12601,7 @@ a.editImagePostButton:hover {
   font-size: .875em; }
 
 .aui .taglib-discussion .form .add-comment .postFormContainer .postComment:before {
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/puntaBlack.png") no-repeat;
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/puntaBlack.png") no-repeat;
   content: "";
   height: 15px;
   left: -7px;
@@ -12629,7 +12629,7 @@ a.editImagePostButton:hover {
   top: 2.1875em; }
 
 .aui .taglib-discussion .form .row-fluid .lfr-discussion .row-fluid .lfr-discussion-body .lfr-discussion-message .taglib-flags .taglib-icon {
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_flag.png") no-repeat;
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_flag.png") no-repeat;
   float: right;
   height: 15px;
   width: 12px; }
@@ -12646,11 +12646,11 @@ a.editImagePostButton:hover {
   width: auto; }
 
 .aui .topSpottedContainer .topSpottedEntry .asset-ratings {
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/sprite-spotted-like.png") no-repeat;
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/sprite-spotted-like.png") no-repeat;
   background-position: -70px 0; }
 
 .aui .topSpottedContainer .topSpottedEntry .asset-ratings:hover {
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/sprite-spotted-like.png") no-repeat;
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/sprite-spotted-like.png") no-repeat;
   background-position: 0 -70px; }
 
 .aui .uploadFormContent .terms-and-conditions {
@@ -12891,12 +12891,12 @@ ul.noEnumListContent {
 
   .aui .portlet-boundary_trendingtags_WAR_trendingtags_ .portlet-borderless-container .portlet-body .trendingTagsContainer .trendingTagsTitle {
     text-align: left;
-    background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/flecha-trending-up.png") no-repeat 100% 18px transparent;
+    background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/flecha-trending-up.png") no-repeat 100% 18px transparent;
     cursor: pointer; }
 
   .aui .portlet-boundary_trendingtags_WAR_trendingtags_ .portlet-borderless-container .portlet-body .trendingTagsContainer .trendingTagsTitle.active {
     text-align: left;
-    background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/flecha-trending.png") no-repeat 100% 18px transparent;
+    background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/flecha-trending.png") no-repeat 100% 18px transparent;
     cursor: pointer; }
 
   .aui .igParentDiv .igChildDiv {
@@ -12954,7 +12954,7 @@ ul.noEnumListContent {
     color: #FFF;
     font-size: 18px;
     font-weight: bold;
-    background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_desplegar.png") no-repeat 98% 18px #333333;
+    background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_desplegar.png") no-repeat 98% 18px #333333;
     cursor: pointer; }
 
   .aui .portletCustom .categories .category li, .aui .portletCustom .categories .category li:hover {
@@ -13144,12 +13144,12 @@ ul.noEnumListContent {
     width: 100%; }
 
   .aui .portlet-boundary_trendingtags_WAR_trendingtags_ .portlet-borderless-container .portlet-body .trendingTagsContainer .trendingTagsTitle {
-    background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/flecha-trending-up.png") no-repeat 99% 18px transparent;
+    background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/flecha-trending-up.png") no-repeat 99% 18px transparent;
     cursor: pointer;
     text-align: left; }
 
   .aui .portlet-boundary_trendingtags_WAR_trendingtags_ .portlet-borderless-container .portlet-body .trendingTagsContainer .trendingTagsTitle.active {
-    background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/flecha-trending.png") no-repeat 99% 18px transparent;
+    background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/flecha-trending.png") no-repeat 99% 18px transparent;
     cursor: pointer;
     text-align: left; }
 
@@ -13186,7 +13186,7 @@ ul.noEnumListContent {
     display: inline; }
 
   .aui .portletCustom .categories .category .categoriesTitle {
-    background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_desplegar.png") no-repeat 98% 18px #333333;
+    background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_desplegar.png") no-repeat 98% 18px #333333;
     color: #FFF;
     cursor: pointer;
     display: block;
@@ -13562,7 +13562,7 @@ ul.noEnumListContent {
 
 /* DROPBOX */
 .aui .portletCustom .mod_discover .md_description_discover .mod_listado_discover .list_discover .mod_text:hover:after {
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_pico_right_hover.png") no-repeat;
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_pico_right_hover.png") no-repeat;
   z-index: 1; }
 
 .aui .portletCustom .mod_discover .md_description_discover .mod_listado_discover .list_discover .mod_text:after {
@@ -13572,7 +13572,7 @@ ul.noEnumListContent {
   top: 40%;
   width: 13px;
   height: 29px;
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_pico_right.png") no-repeat; }
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_pico_right.png") no-repeat; }
 
 .aui .portletCustom .violetContent {
   margin-left: 10%;
@@ -13588,7 +13588,7 @@ ul.noEnumListContent {
   top: -12px;
   width: 29px;
   height: 13px;
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_pico_top.png") no-repeat; }
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_pico_top.png") no-repeat; }
 
 .aui .portletCustom .richContent1Column .richContentShortDesc {
   color: #333;
@@ -13611,18 +13611,18 @@ ul.noEnumListContent {
 
 .aui .portletCustom .flagElement .taglib-flags .taglib-icon, .aui .taglib-discussion .form .row-fluid .lfr-discussion .row-fluid .lfr-discussion-body .lfr-discussion-message .taglib-flags .taglib-icon,
 .aui .portletCustom .asset-full-content .flags .taglib-icon, .aui .likesAndComments .taglib-flags .taglib-icon {
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/sprite-flag.png") no-repeat;
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/sprite-flag.png") no-repeat;
   background-position: -26px 0; }
 
 .aui .portletCustom .flagElement .taglib-flags .taglib-icon:hover, .aui .taglib-discussion .form .row-fluid .lfr-discussion .row-fluid .lfr-discussion-body .lfr-discussion-message .taglib-flags a.taglib-icon:hover,
 .aui .portletCustom .asset-full-content .flags a.taglib-icon:hover,
 .aui .likesAndComments .taglib-flags .taglib-icon:hover {
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/sprite-flag.png") no-repeat;
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/sprite-flag.png") no-repeat;
   background-position: 0 -19px; }
 
 .aui .portletCustom .igChildDiv .deleteButton, .aui .portletCustom #deleteLink,
 .aui .portletCustom .lfr-discussion-delete a, .aui .portletCustom .deletePost {
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/sprite-trash.png") no-repeat;
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/sprite-trash.png") no-repeat;
   background-position: -24px 0; }
 
 .aui .portletCustom .igChildDiv .deleteButton:hover, .aui .portletCustom #deleteLink:hover,
@@ -13728,7 +13728,7 @@ div#customNumComments2 {
 
 /*El icono de los tags en image detail no es como en el resto de las p�ginas*/
 .aui .imageDetail .igTags p .icon-tag {
-  background: url("/ourlounge-theme/css/../css/../images/modulos/icons/ico_target.png");
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../css/../images/modulos/icons/ico_target.png");
   display: inline-block;
   height: 17px;
   width: 19px; }
@@ -13879,25 +13879,25 @@ div#customNumComments2 {
 
 /*Paginaci�n en image gallery*/
 .aui .portletCustom .lfr-pagination .lfr-pagination-buttons .item.previous {
-  background: url("/ourlounge-theme/css/../css/../images/modulos/icons/sprite_arrow_left.png") no-repeat top left;
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../css/../images/modulos/icons/sprite_arrow_left.png") no-repeat top left;
   width: 41px;
   height: 41px;
   background-position: 0 -41px; }
 
 .aui .portletCustom .lfr-pagination .lfr-pagination-buttons .item.previous:hover {
-  background: url("/ourlounge-theme/css/../css/../images/modulos/icons/sprite_arrow_left.png") no-repeat top left;
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../css/../images/modulos/icons/sprite_arrow_left.png") no-repeat top left;
   width: 41px;
   height: 41px;
   background-position: -41px 0; }
 
 .aui .portletCustom .lfr-pagination .lfr-pagination-buttons .item.next {
-  background: url("/ourlounge-theme/css/../css/../images/modulos/icons/sprite_arrow_right.png") no-repeat top left;
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../css/../images/modulos/icons/sprite_arrow_right.png") no-repeat top left;
   width: 41px;
   height: 41px;
   background-position: 0 -41px; }
 
 .aui .portletCustom .lfr-pagination .lfr-pagination-buttons .item.next:hover {
-  background: url("/ourlounge-theme/css/../css/../images/modulos/icons/sprite_arrow_right.png") no-repeat top left;
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../css/../images/modulos/icons/sprite_arrow_right.png") no-repeat top left;
   width: 41px;
   height: 41px;
   background-position: -41px 0; }
@@ -13961,7 +13961,7 @@ div#customNumComments2 {
   background: #893579; }
 
 .aui .portletCustom .mod_news_img:hover .md_news .title_img:after {
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/punta_lila_down.png"); }
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/punta_lila_down.png"); }
 
 .aui .portletCustom .mod_news_img:hover .md_news .title {
   background: #893579; }
@@ -14652,7 +14652,7 @@ div#richContent.l-col_4.m-col_4.s-col_4.portlet-column-first {
 /*----END CREWPORTAL-450: Delete Zoom hover----*/
 /*----START CREWPORTAL-546: Show options icon in portlet border----*/
 .portlet-borderless-bar .portlet-options .dropdown-toggle, .portlet-borderless-bar .portlet-options.open .dropdown-toggle {
-  background-image: url(https://www.ourlounge.ca/ourlounge-theme/images//portlet/options_borderless.png); }
+  background-image: url(https://www.ourlounge.ca/ourlounge-theme/css/../images/portlet/options_borderless.png); }
 
 /*----END CREWPORTAL-546: Show options icon in portlet border----*/
 /* Gabriel */
@@ -14714,7 +14714,7 @@ div#richContent.l-col_4.m-col_4.s-col_4.portlet-column-first {
   left: 83%;
   width: 22px;
   height: 10px;
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_bocadillo.png") no-repeat top right transparent;
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_bocadillo.png") no-repeat top right transparent;
   z-index: 5; }
 
 .mod_header .menu_login2.restSelector li {
@@ -15019,7 +15019,7 @@ img.imageRelatedC {
   background: #893579; }
 
 .aui .menuTablet .mod_lista_nav .lista_nav .mm-subopen {
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_flecha_white_bottom.png") no-repeat center;
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_flecha_white_bottom.png") no-repeat center;
   margin-top: 2%; }
 
 .aui .menuTablet .mod_lista_nav .lista_nav.mm-opened:hover {
@@ -15038,14 +15038,14 @@ img.imageRelatedC {
   left: 0;
   width: 50px;
   right: 8%;
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_flecha_white_left.png") no-repeat 50% center; }
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_flecha_white_left.png") no-repeat 50% center; }
 
 .aui .menuTablet .mod_lista_nav .lista_nav.mm-opened .sub_mod_lista .sub_lista.mm-opened .sub_item {
   text-align: center; }
 
 .aui .menuTablet .mod_lista_nav .lista_nav.mm-opened .sub_mod_lista .sub_lista .mm-subopen {
   top: 1.0625em;
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_flecha.png") no-repeat center; }
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_flecha.png") no-repeat center; }
 
 .aui .menuTablet .mod_lista_nav .lista_nav.mm-opened .sub_mod_lista .sub_lista .sub_mod_lista_description {
   padding: 0;
@@ -15070,7 +15070,7 @@ img.imageRelatedC {
   font-weight: 900; }
 
 .aui .menuTablet .mod_lista_nav .lista_nav.mm-opened .mm-subopen {
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_flecha.png") no-repeat center; }
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_flecha.png") no-repeat center; }
 
 .aui .menuTablet .mod_lista_nav .lista_nav .sub_mod_lista {
   padding-left: 0;
@@ -15088,7 +15088,7 @@ img.imageRelatedC {
   color: #FFFFFF; }
 
 .aui .menuTablet .mod_lista_nav .lista_nav .sub_mod_lista .sub_lista:hover .mm-subopen {
-  background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_flecha_white.png") no-repeat center; }
+  background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_flecha_white.png") no-repeat center; }
 
 .aui .menuTablet .mod_lista_nav .lista_nav .sub_mod_lista .sub_lista:hover .sub_item {
   color: #ffffff; }
@@ -15142,7 +15142,7 @@ img.imageRelatedC {
     display: block;
     width: 3.4375em;
     height: 3.125em;
-    background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_menu.png") no-repeat scroll center center #333333; }
+    background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_menu.png") no-repeat scroll center center #333333; }
 
   .aui .mod_navMenu .mod_lista_nav {
     position: relative;
@@ -15186,7 +15186,7 @@ img.imageRelatedC {
     font-size: 1.125em;
     color: #333333;
     text-decoration: none;
-    background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_flecha.png") no-repeat 281px; }
+    background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_flecha.png") no-repeat 281px; }
 
   .aui .mod_navMenu .mod_lista_nav .lista_nav .sub_mod_lista .sub_lista .sub_item:hover {
     color: #ffffff; }
@@ -15235,7 +15235,7 @@ img.imageRelatedC {
     display: none; }
 
   .aui .mod_navMenu .mod_lista_nav .lista_nav .sub_mod_lista .sub_lista:hover .sub_item {
-    background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_flecha_white.png") no-repeat 281px;
+    background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_flecha_white.png") no-repeat 281px;
     color: #FFFFFF; }
 
   .aui .mod_navMenu .mod_lista_nav .lista_nav .sub_mod_lista .sub_lista:last-child {
@@ -15327,7 +15327,7 @@ img.imageRelatedC {
     top: 0;
     right: 0;
     margin-top: 0;
-    background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_flecha_white_bottom.png") no-repeat center; }
+    background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_flecha_white_bottom.png") no-repeat center; }
 
   .aui .menuTablet .mod_lista_nav .lista_nav.mm-opened:hover {
     background: none; }
@@ -15345,7 +15345,7 @@ img.imageRelatedC {
     left: 0;
     width: 50px;
     right: 8%;
-    background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_flecha_white_left.png") no-repeat 50% center; }
+    background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_flecha_white_left.png") no-repeat 50% center; }
 
   .aui .menuTablet .mod_lista_nav .lista_nav.mm-opened .sub_mod_lista .sub_lista:hover .mm-subopen {
     width: 85px;
@@ -15357,7 +15357,7 @@ img.imageRelatedC {
     left: 0;
     width: 50px;
     right: 8%;
-    background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_flecha_white_left.png") no-repeat 50% center; }
+    background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_flecha_white_left.png") no-repeat 50% center; }
 
   .aui .menuTablet .mod_lista_nav .lista_nav.mm-opened .sub_mod_lista .sub_lista .mm-subopen {
     top: 0em;
@@ -15365,7 +15365,7 @@ img.imageRelatedC {
     width: 85px;
     right: 0;
     margin-top: 0;
-    background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_flecha.png") no-repeat center; }
+    background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_flecha.png") no-repeat center; }
 
   .aui .menuTablet .mod_lista_nav .lista_nav.mm-opened .sub_mod_lista .sub_lista .sub_mod_lista_description {
     padding: 0;
@@ -15398,7 +15398,7 @@ img.imageRelatedC {
     top: 0.4375em;
     height: 60px;
     width: 92px;
-    background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_flecha_white_top.png") no-repeat center; }
+    background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_flecha_white_top.png") no-repeat center; }
 
   .aui .menuTablet .mod_lista_nav .lista_nav .sub_mod_lista {
     padding-left: 0;
@@ -15415,7 +15415,7 @@ img.imageRelatedC {
     color: #FFFFFF; }
 
   .aui .menuTablet .mod_lista_nav .lista_nav .sub_mod_lista .sub_lista:hover .mm-subopen {
-    background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_flecha_white.png") no-repeat center; }
+    background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_flecha_white.png") no-repeat center; }
 
   .aui .menuTablet .mod_lista_nav .lista_nav .sub_mod_lista .sub_lista .sub_item {
     width: 95%;
@@ -15506,7 +15506,7 @@ img.imageRelatedC {
     height: 50px;
     width: 55px;
     right: 0;
-    background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_flecha_white_bottom.png") no-repeat center;
+    background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_flecha_white_bottom.png") no-repeat center;
     outline: none; }
 
   .aui .menuTablet .mod_lista_nav .lista_nav.mm-opened:hover {
@@ -15525,7 +15525,7 @@ img.imageRelatedC {
     left: 0;
     width: 50px;
     right: 8%;
-    background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_flecha_white_left.png") no-repeat 50% center;
+    background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_flecha_white_left.png") no-repeat 50% center;
     outline: none; }
 
   .aui .menuTablet .mod_lista_nav .lista_nav.mm-opened .sub_mod_lista .sub_lista .mm-subopen {
@@ -15533,7 +15533,7 @@ img.imageRelatedC {
     right: 0;
     width: 50px;
     height: 60px;
-    background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_flecha.png") no-repeat center;
+    background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_flecha.png") no-repeat center;
     outline: none; }
 
   .aui .menuTablet .mod_lista_nav .lista_nav.mm-opened .sub_mod_lista .sub_lista .sub_mod_lista_description {
@@ -15574,7 +15574,7 @@ img.imageRelatedC {
     margin-top: 0;
     width: 50px;
     height: 60px;
-    background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_flecha_white_top.png") no-repeat center;
+    background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_flecha_white_top.png") no-repeat center;
     outline: none; }
 
   .aui .menuTablet .mod_lista_nav .lista_nav .sub_mod_lista {
@@ -15597,7 +15597,7 @@ img.imageRelatedC {
     color: #FFFFFF; }
 
   .aui .menuTablet .mod_lista_nav .lista_nav .sub_mod_lista .sub_lista:hover .mm-subopen {
-    background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_flecha_white.png") no-repeat center; }
+    background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_flecha_white.png") no-repeat center; }
 
   .aui .menuTablet .mod_lista_nav .lista_nav .sub_mod_lista .sub_lista .sub_item {
     width: 95%;
@@ -15669,7 +15669,7 @@ img.imageRelatedC {
     display: block;
     width: 3.4375em;
     height: 3.125em;
-    background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_menu.png") no-repeat scroll center center #333333; }
+    background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_menu.png") no-repeat scroll center center #333333; }
 
   .aui .portletCustom .mod_navMenu .mod_lista_nav {
     position: relative;
@@ -15685,7 +15685,7 @@ img.imageRelatedC {
     width: 13%;
     text-align: left;
     cursor: pointer;
-    background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_flecha_white_bottom.png") no-repeat 90% 50%; }
+    background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_flecha_white_bottom.png") no-repeat 90% 50%; }
 
   .aui .portletCustom .mod_navMenu .mod_lista_nav .lista_nav .sub_mod_lista {
     position: absolute;
@@ -15736,7 +15736,7 @@ img.imageRelatedC {
     width: 100%; }
 
   .aui .portletCustom .mod_navMenu .mod_lista_nav .lista_nav .sub_mod_lista .sub_lista .sub_mod_lista_description .sub_lista_description:hover .sub_item_description {
-    background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_flecha_white.png") no-repeat 95% 50%;
+    background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_flecha_white.png") no-repeat 95% 50%;
     color: #FFFFFF; }
 
   .aui .portletCustom .mod_navMenu .mod_lista_nav .lista_nav .sub_mod_lista .sub_lista .sub_mod_lista_description .sub_lista_description:hover .sub_item_description_no_childs {
@@ -15754,7 +15754,7 @@ img.imageRelatedC {
     line-height: 1.475em; }
 
   .aui .portletCustom .mod_navMenu .mod_lista_nav .lista_nav .sub_mod_lista .sub_lista .sub_mod_lista_description .sub_lista_description .sub_item_description .sub_item_description_childs {
-    background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_flecha_white.png") no-repeat 95% 50% #333333; }
+    background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_flecha_white.png") no-repeat 95% 50% #333333; }
 
   .ie9 .aui .portletCustom .mod_navMenu .mod_lista_nav .lista_nav .sub_mod_lista .sub_lista .sub_mod_lista_description .sub_lista_description .sub_item_description {
     display: block;
@@ -15840,21 +15840,21 @@ img.imageRelatedC {
     display: none; }
 
   .aui .portletCustom .mod_navMenu .mod_lista_nav .lista_nav .sub_mod_lista .sub_lista:hover .sub_item {
-    background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_flecha_white.png") no-repeat 95% 50%;
+    background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_flecha_white.png") no-repeat 95% 50%;
     color: #FFFFFF; }
 
   .aui .portletCustom .mod_navMenu .mod_lista_nav .lista_nav .sub_mod_lista .sub_lista:hover .sub_item_no_childs {
     background: #333333; }
 
   .aui .portletCustom .mod_navMenu .mod_lista_nav .lista_nav .sub_mod_lista .sub_lista .sub_item_description_childs {
-    background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_flecha_white.png") no-repeat 95% 50% #333333; }
+    background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_flecha_white.png") no-repeat 95% 50% #333333; }
 
   .aui .portletCustom .mod_navMenu .mod_lista_nav .lista_nav .sub_mod_lista .sub_lista:last-child {
     border-bottom: none; }
 
   .aui .portletCustom .mod_navMenu .mod_lista_nav .lista_nav:hover {
     color: #FFFFFF;
-    background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_flecha_white_bottom.png") no-repeat 90% 50% #893579; }
+    background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_flecha_white_bottom.png") no-repeat 90% 50% #893579; }
 
   .aui .portletCustom .mod_navMenu .mod_lista_nav .lista_nav .item_nav {
     font-family: arial;
@@ -15925,7 +15925,7 @@ img.imageRelatedC {
     top: 0;
     right: 0;
     margin-top: 0;
-    background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_flecha_white_bottom.png") no-repeat center; }
+    background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_flecha_white_bottom.png") no-repeat center; }
 
   .touch.aui .menuTablet .mod_lista_nav .lista_nav.mm-opened:hover {
     background: none; }
@@ -15943,7 +15943,7 @@ img.imageRelatedC {
     left: 0;
     width: 50px;
     right: 8%;
-    background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_flecha_white_left.png") no-repeat 50% center; }
+    background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_flecha_white_left.png") no-repeat 50% center; }
 
   .touch.aui .menuTablet .mod_lista_nav .lista_nav.mm-opened .sub_mod_lista .sub_lista:hover .mm-subopen {
     width: 85px;
@@ -15955,7 +15955,7 @@ img.imageRelatedC {
     left: 0;
     width: 50px;
     right: 8%;
-    background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_flecha_white_left.png") no-repeat 50% center; }
+    background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_flecha_white_left.png") no-repeat 50% center; }
 
   .touch.aui .menuTablet .mod_lista_nav .lista_nav.mm-opened .sub_mod_lista .sub_lista .mm-subopen {
     top: 0em;
@@ -15963,7 +15963,7 @@ img.imageRelatedC {
     width: 85px;
     right: 0;
     margin-top: 0;
-    background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_flecha.png") no-repeat center; }
+    background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_flecha.png") no-repeat center; }
 
   .touch.aui .menuTablet .mod_lista_nav .lista_nav.mm-opened .sub_mod_lista .sub_lista .sub_mod_lista_description {
     padding: 0;
@@ -15996,7 +15996,7 @@ img.imageRelatedC {
     top: 0.4375em;
     height: 60px;
     width: 92px;
-    background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_flecha_white_top.png") no-repeat center; }
+    background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_flecha_white_top.png") no-repeat center; }
 
   .touch.aui .menuTablet .mod_lista_nav .lista_nav .sub_mod_lista {
     padding-left: 0;
@@ -16014,7 +16014,7 @@ img.imageRelatedC {
     color: #FFFFFF; }
 
   .touch.aui .menuTablet .mod_lista_nav .lista_nav .sub_mod_lista .sub_lista:hover .mm-subopen {
-    background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_flecha_white.png") no-repeat center; }
+    background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_flecha_white.png") no-repeat center; }
 
   .touch.aui .menuTablet .mod_lista_nav .lista_nav .sub_mod_lista .sub_lista .sub_item {
     width: 95%;
@@ -16038,7 +16038,7 @@ img.imageRelatedC {
     display: block;
     width: 3.4375em;
     height: 3.125em;
-    background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_menu.png") no-repeat scroll center center #333333; }
+    background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_menu.png") no-repeat scroll center center #333333; }
 
   .touch.aui .mod_navMenu .mod_lista_nav {
     position: relative;
@@ -16079,7 +16079,7 @@ img.imageRelatedC {
     font-size: 1.125em;
     color: #333333;
     text-decoration: none;
-    background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_flecha.png") no-repeat 281px; }
+    background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_flecha.png") no-repeat 281px; }
 
   .touch.aui .mod_navMenu .mod_lista_nav .lista_nav .sub_mod_lista .sub_lista .sub_item:hover {
     color: #ffffff; }
@@ -16128,7 +16128,7 @@ img.imageRelatedC {
     display: none; }
 
   .touch.aui .mod_navMenu .mod_lista_nav .lista_nav .sub_mod_lista .sub_lista:hover .sub_item {
-    background: url("https://www.ourlounge.ca/ourlounge-theme/images//modulos/icons/ico_flecha_white.png") no-repeat 281px;
+    background: url("https://www.ourlounge.ca/ourlounge-theme/css/../images/modulos/icons/ico_flecha_white.png") no-repeat 281px;
     color: #FFFFFF; }
 
   .touch.aui .mod_navMenu .mod_lista_nav .lista_nav .sub_mod_lista .sub_lista:last-child {
